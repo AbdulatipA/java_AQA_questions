@@ -223,7 +223,7 @@
 </details>
 
 <details>
-    <summary><b>2. REST и устройство API</b></summary>
+    <summary><b>2. HTTP: запрос, URI и методы</b></summary>
 
 1. Из чего состоит HTTP-запрос?
 2. Из чего состоит HTTP-ответ?
